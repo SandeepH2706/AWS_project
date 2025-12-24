@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+
+# Pytest / coverage
+.pytest_cache/
+.coverage
+
+# OS files
+.DS_Store
+
